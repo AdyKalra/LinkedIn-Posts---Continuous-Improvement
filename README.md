@@ -7,7 +7,7 @@ A great chef uses sharp knives — but it’s not the knives that do the coo
 - "Reduce" - Scheduling, says Cal Newport, the founder of Study Hacks “forces you to confront the reality of how much time you actually have and how long things will take.”
 - "Assess" - Think in blocks, not hours.
 - "Eliminate" - In Essentialism, Greg McKeown summarizes: “It’s about making the trade-off between lots of good things and a few really great things.”
- hashtag#productivity hashtag#selfmanagement
+ #productivity #selfmanagement
  
  https://medium.com/swlh/why-your-productivity-tools-are-making-you-less-productive-5823e76e7f6a
  
@@ -21,7 +21,7 @@ A look at Prettier, ESLint, Husky, Lint-Staged and EditorConfig
 - Lint-staged helps you run linters on staged files, so that bad code doesn’t get pushed to your branch.
 - .editorconfig. This actually helps enforce some certain rule sets in the editor of your choice.
 
-hashtag#sensibledefaults hashtag#bestpractices 
+#sensibledefaults #bestpractices 
 
 https://lnkd.in/fAf7xUB
 
@@ -32,7 +32,7 @@ https://lnkd.in/fAf7xUB
 - Is  MEVN (Vue.js) going to be the next stack?
 - All four of these technologies are open source, cross-platform and JavaScript based
 - Here is a powerful boilerplate project that gives you a solid head start on building universal React apps
-hashtag#webframeworks
+#webframeworks
 
 http://mern.io
 
@@ -40,7 +40,7 @@ http://mern.io
 * Click on the Race to see the predictions
 * Click on center to return to wagon wheel
 
-hashtag#machinelearning hashtag#visualization
+#machinelearning #visualization
 
 https://lnkd.in/gDZ2bY9
 
@@ -50,7 +50,7 @@ Building a Node.js WebSocket App with Socket.io and React -
 - the  socket.io npm package, which provides us with a node.js WebSocket API
 - Socket.io providing a failover mechanism for WebSockets 
 
-hashtag#architecture 
+#architecture 
 
 https://lnkd.in/fwJ6tg6
 
@@ -62,7 +62,7 @@ The only way to achieve continuous delivery/DevOps is to follow the CAMS formula
 - The team AUTOMATE wherever possible to eliminate error
 - The team MEASURE progress, and
 - The team SHARE feedback freely without blame
- hashtag#devops hashtag#cicd
+ #devops #cicd
 
 https://lnkd.in/fTG6mGU
 
@@ -72,7 +72,7 @@ https://lnkd.in/fTG6mGU
 - APIs are crafted to connect easily to other services, both internal and external. While this certainly is beneficial from a user perspective, developers often find the result of this type of development to have some problematic elements.
 - a BFF can be incredibly powerful when used as it is meant to be used — a translative layer between disparate API services and experiences.
 
- hashtag#microservices 
+ #microservices 
 
 https://lnkd.in/fRdU4qq
 
@@ -82,13 +82,13 @@ As containers have become the industry standard for cloud deployments they have 
 - Istio is an "open platform to connect, manage, and secure microservices".
 - Otherwise known as a 'service mesh', the aim is to unify traffic flow management, access policy enforcement and telemetry data aggregation across microservices into a shared management console, regardless of environment.
 - My favorite you can better control traffic with dynamic route configuration and it is easier to conduct A/B tests and release canaries
- hashtag#devops hashtag#microservices hashtag#kubernetes hashtag#istio 
+ #devops #microservices #kubernetes #istio 
 https://istio.io
 
 # API mediation (in other words: API experience management) Or the API Experience Layer - 
 
 - This layer wraps the backend API (the inner API) and exposes a personalized and managed API (the outer API) to each defined constituency of consumers, simplifying the developer experience while also ensuring loose coupling.
- hashtag#sensibledefaults hashtag#bestpractices 
+ #sensibledefaults #bestpractices 
 
 https://lnkd.in/f5wAWdY
 
@@ -97,12 +97,12 @@ https://lnkd.in/f5wAWdY
 - For a period of 4 hours, you can pull, build, run and interact with as many Docker containers as you wish
 - Under the hood Docker-in-Docker (DinD) is used to give the effect of multiple VMs/PCs.
 - Github link https://lnkd.in/ee53YiQ
- hashtag#docker hashtag#github 
+ #docker #github 
 
 https://lnkd.in/eekt7_6
 
 # All software engineers can program, but not all programmers can engineer software ! 
-hashtag#sensibledefaults hashtag#bestpractices hashtag#engineering101 
+#sensibledefaults #bestpractices #engineering101 
 
 - If someone does not understand the problem, they should not be allowed to program a solution for it.
 
@@ -131,7 +131,7 @@ https://medium.com/bettercode/how-to-build-a-modern-ci-cd-pipeline-5faa01891a5b
 
 You will fall in love just like I did 💞
 
-https://lnkd.in/fpR6A2w hashtag#devops hashtag#orchestration hashtag#CICD hashtag#containerization hashtag#virtualization hashtag#cloud hashtag#loggingmonitoring hashtag#visualization
+https://lnkd.in/fpR6A2w #devops #orchestration #CICD #containerization #virtualization #cloud #loggingmonitoring #visualization
 
 # An interesting concept run by a bunch of ex-Googlers (from the startup world with Room 77 and when it was acquired, they worked for ranking algos and the search engine)
 
@@ -169,12 +169,12 @@ Jupyter was amazing but this is taking it to the next level!
 - storing output frm notebooks to an s3 bucket managed by Commuter, another nteract project
 -finally running them using Docker 
 
-- Dig in more if you are a fan of Jupyter at scale or follow JupyterCon hashtag#Jupyter
+- Dig in more if you are a fan of Jupyter at scale or follow JupyterCon #Jupyter
 https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
 
 # We all need atleast three mentors - 
 One in our area of expertise, one in leadership role with a holistic view and finally one outside work or in a completely unrelated field. 
 Do you already have one ?
-hashtag#mentors
+#mentors
 
 

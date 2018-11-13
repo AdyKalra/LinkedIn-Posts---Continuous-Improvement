@@ -1,4 +1,4 @@
-# LinkedIn-Posts---Continuous-Improvement
+# LinkedIn-Posts || Continuous-Improvement
 Selected posts from daily reading
 
 A great chef uses sharp knives — but it’s not the knives that do the cooking.

@@ -140,4 +140,41 @@ The Refdash Concept:
  - same goes for companies trying to hire the best talent.
  https://refdash.com/
  
- # 
+ # love this concept of "read and implement one chapter per iteration"
+
+One of the most important elements of a software engineer’s personal development is reading. In a field so vast, one of the “must read” books is Clean Code, by Robert C. Martin.
+https://medium.com/@severinperez/reflections-on-clean-code-8c9b683277ca
+
+# The 12 Factor App
+If you are involved with any kind of development work , the twelve-factor app is a must read - inspired by Martin Fowler’s books Patterns of Enterprise Application Architecture and Refactoring.
+
+Each of the twelve factors have an insightful view 
+
+https://12factor.net #martinfowler
+
+# Do you have a "test efficacy" like google does ? Love this line - " running an additional test that you know will pass is not a valuable signal to developers and likely a waste of resources" 
+
+- The ideal "Efficacy Presubmit" would predict which tests will pass ahead of time and only run tests which were going to fail.
+
+- Given the abstraction on the presubmit testing process described above, predicting the outcomes of automated testing at a large company is a perfect machine learning problem in many ways
+
+Good read for anyone involved in creating automated tests - https://lnkd.in/gJypgvM?
+
+# Wow this is awesome - Netflix changing development IDE to notebooks.
+Jupyter was amazing but this is taking it to the next level!
+
+- Scaling Notebooks ? Papermill is the game changer , nteract library built for configurable and reliable execution of notebooks with production ecosystems in mind. 
+- 10,000 scheduled jobs running on Netflix Data Platform execution on notebooks
+- 150,000 genie jobs
+- storing output frm notebooks to an s3 bucket managed by Commuter, another nteract project
+-finally running them using Docker 
+
+- Dig in more if you are a fan of Jupyter at scale or follow JupyterCon hashtag#Jupyter
+https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6
+
+# We all need atleast three mentors - 
+One in our area of expertise, one in leadership role with a holistic view and finally one outside work or in a completely unrelated field. 
+Do you already have one ?
+hashtag#mentors
+
+
